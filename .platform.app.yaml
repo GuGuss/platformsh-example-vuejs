@@ -21,7 +21,7 @@ web:
                 ^/robots\.txt$:
                     allow: true
 
-disk: 2048
+disk: 1024
 mounts:
   '/build_platform': 'shared:files/build_platform'
   '/.tmp_platformsh': 'shared:files/tmp_platformsh'
