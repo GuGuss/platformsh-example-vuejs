@@ -4,7 +4,7 @@
 
 The project has been created from [ydeshayes/webpack](https://github.com/ydeshayes/webpack) with:
 
-    vue init ydeshayes/webpack frontend
+    vue init ydeshayes/webpack ui
 
 ## Build Setup
 
