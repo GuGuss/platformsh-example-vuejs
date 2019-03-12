@@ -1,7 +1,7 @@
 name: ui
 
 # The toolstack used to build the application.
-type: nodejs:6.9
+type: nodejs:6.11
 build:
     flavor: none
 
